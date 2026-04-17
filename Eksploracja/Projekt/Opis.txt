@@ -1,0 +1,33 @@
+Wybrane dane są zbiorem danych statystycznych reklam. 
+
+Dane przynależą do kilku wybranych witryn na których zarejestrowano te dane.
+Każdy wiersz oznacza uzytkownika który przeglądał treści na danej witrynie i podczas przeglądania oglądał reklamy.
+
+Kolumnami w zbiorze danych są:
+
+website - witryna na której zarejestrowano działanie użytkownika
+pos - pozycja w bloku reklamowym
+adstart - reklama została uruchomiona
+adfirst - reklama została obejrzana w 25%
+admid - reklama została obejrzana w 50%
+adthird - reklama została obejrzana w 75%
+adcomplete - reklama została obejrzana w 100%
+adclick - reklama została naciśnięta przez użytkownika
+adpaused - reklama została zapuzowana przez użytkownika
+adresumed - reklama została wznowiona przez użytkownika
+
+
+Dane Kategoryczne:
+    website
+    pos
+
+Dane numeryczne:
+    adstart 
+    adfirst 
+    admid 
+    adthird 
+    adcomplete 
+    adclick 
+    adpaused 
+    adresumed 
+
