@@ -1,3 +1,4 @@
+package T;
 class Worker extends Thread {
 
     public Worker(String name){

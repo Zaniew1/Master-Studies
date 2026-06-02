@@ -1,3 +1,4 @@
+package T;
 class Singer extends Thread {
 
     private int n;

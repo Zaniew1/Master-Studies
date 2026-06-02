@@ -1,0 +1,9 @@
+Czy robić analizę Theta i Omega?
+
+Czy dać krótki rozdział poświęcony matematycznym podstawom podzielności przez 11?
+
+Czy zrobić dłuższy rozdział o klasach złożoności (P, NP, PSPACE, EXP, L(LOGSPACE))?
+
+
+
+DEFINICJA O NOTACJI, ZPODZIELNOSĆ PRZEZ 11 
